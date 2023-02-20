@@ -15,9 +15,9 @@
 * 熟悉相关网络知识，如 TCP、UDP、HTTP 等相关网络协议
 * 熟悉数据库的相关知识，理解事物、锁、隔离级别、SQL 优化等相关知识
 * 熟悉 Gin 和 Gorm 等相关 WEB 框架的使用
-* 熟悉 git 相关命令
+* 熟悉 Git 相关命令
 * 了解 Redis 相关知识
-* 了解 k8s 和 docker 相关使用
+* 了解 K8s 和 Docker 相关使用
 * 了解 Linux 的基本使用
 
 ## 工作及教育经历
@@ -44,4 +44,3 @@
 ## 个人账号
 * blog 地址：https://blog.csdn.net/m0_46066994?type=blog
 * github 地址：https://github.com/Ignorant-lxf
-
