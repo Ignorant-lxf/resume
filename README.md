@@ -5,7 +5,7 @@
 ## 个人信息
 
 * 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &ensp;年 龄：23
-* 手 机：18162616452 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  邮 箱：1547446385@qq.com
+* 手 机：18162616452 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;邮 箱：1547446385@qq.com
 * 专 业：计算机科学与技术 &emsp;&emsp;&emsp;&emsp; &emsp; 岗 位：GO 研发工程师
 
 ## 专业技能
