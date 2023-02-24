@@ -3,7 +3,7 @@
  </center>
 
 ## 个人信息
-* 性 别：男 &ensp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &ensp;年 龄：23
+* 性 别：男 &ensp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &ensp; &ensp; &ensp; &ensp;年 龄：23
 * 手 机：18162616452 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;邮 箱：1547446385@qq.com
 * 专 业：计算机科学与技术 &emsp;&emsp;&emsp;&emsp; &emsp; 岗 位：GO 研发工程师
 
@@ -15,8 +15,10 @@
 * 掌握 Redis 相关知识
 * 掌握 Gin 和 Gorm 等相关 Web 框架的使用
 * 熟悉 Git 相关命令
-* 了解 K8s 和 Docker 相关使用
-* 了解 Linux 的基本使用
+
+## 工作及教育经历
+* 海通盛达企业管理有限公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2022.4~至今&emsp;&emsp;&emsp;&emsp;&emsp; GO 后端研发工程师
+* 文华学院&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2018.9~2022.6&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-本科
 
 ## 项目经历
 1. 商品独立站开发-后端开发
@@ -29,5 +31,4 @@
     * 集成到项目运行时依赖
 
 ## 个人账号
-* blog 地址：https://blog.csdn.net/m0_46066994?type=blog
 * github 地址：https://github.com/Ignorant-lxf
