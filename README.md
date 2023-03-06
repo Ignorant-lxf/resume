@@ -20,7 +20,6 @@
 * 掌握 Redis 相关知识，了解其部分原理
 * 掌握 Gin/GORM 等相关 Web 框架的使用，及其配套中间件
 * 熟练使用 Git、GitHub，了解 GitHub Flow 规范及常见协作方式及流程
-* 了解 Linux 的简单使用
 * 了解 K8s/Docker
 
 ## 工作经历
